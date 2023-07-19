@@ -4,6 +4,7 @@ const Posts = () => {
   return (
     <div>
       Thi is post
+      heuheuhsadubshaudbadsb
     </div>
   )
 }
